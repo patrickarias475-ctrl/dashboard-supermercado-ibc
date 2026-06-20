@@ -47,5 +47,5 @@ Haz clic abajo para explorar la interactividad:
 ```text
 ├── data/           # Muestra de datos procesada (CSV)
 ├── scripts/        # Notebooks de Python (ETL)
-├── assets/         # Imágenes del proceso (Diagramas IBCS)
+├── assets/         # Imágenes de ejemplo 
 └── README.md
