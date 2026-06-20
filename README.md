@@ -1,7 +1,7 @@
 # 📊 Dashboard de Supermercado: Storytelling Interactivo
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Activo-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Terminado-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Tool-Looker%20Studio-blue?style=for-the-badge&logo=google" alt="LookerStudio">
   <img src="https://img.shields.io/badge/Standard-IBCS-red?style=for-the-badge" alt="IBCS">
 </div>
@@ -13,7 +13,6 @@ Transformación de datos operativos en insights accionables mediante visualizaci
 
 ## 🛠️ Stack Tecnológico
 *   **Python:** Limpieza, procesamiento y desnormalización de datos (`Pandas`).
-*   **SQL:** Consultas eficientes y estructuración de esquemas.
 *   **Looker Studio:** Visualización interactiva y Storytelling financiero.
 
 ## 📈 Análisis IBCS: La Historia detrás del Dato
@@ -26,11 +25,18 @@ En este dashboard, aplicamos los principios **IBCS** para:
 
 ---
 
+## 🖼️ Vista Previa del Dashboard
+*(Aquí aparecerá la imagen de tu reporte)*
+
+![Dashboard Preview](assets/dashboard-preview.png)
+
+---
+
 ## 🚀 Acceso al Dashboard
 Haz clic abajo para explorar la interactividad:
 
 <div align="center">
-  <a href=https://datastudio.google.com/reporting/3b56c8b6-4cff-4f10-a2d4-f67dc52214f9>
+  <a href="https://datastudio.google.com/reporting/3b56c8b6-4cff-4f10-a2d4-f67dc52214f9">
     <img src="https://img.shields.io/badge/🚀_Ver_Dashboard_en_Vivo-white?style=for-the-badge&logo=google-chrome" alt="Dashboard">
   </a>
 </div>
