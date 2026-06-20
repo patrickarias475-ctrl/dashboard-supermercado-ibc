@@ -28,7 +28,7 @@ En este dashboard, aplicamos los principios **IBCS** para:
 ## 🖼️ Vista Previa del Dashboard
 
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](assets/dashboard-preview.png)
 
 ---
 
